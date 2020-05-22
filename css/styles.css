@@ -46,6 +46,7 @@ main {
 footer {
   display: flex;
   min-height: 30vh;
+  margin-top: 10vh;
   padding: 0 30px;
   background-color: #f4f4f4;
 }
